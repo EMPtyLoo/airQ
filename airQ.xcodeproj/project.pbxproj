@@ -14,6 +14,7 @@
 		617496391C294442009A31B7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 617496381C294442009A31B7 /* Images.xcassets */; };
 		6174963C1C294442009A31B7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6174963A1C294442009A31B7 /* LaunchScreen.xib */; };
 		617496481C294443009A31B7 /* airQTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 617496471C294443009A31B7 /* airQTests.m */; };
+		617496541C295B10009A31B7 /* IMG_3681副本.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 617496531C295B10009A31B7 /* IMG_3681副本.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		617496411C294443009A31B7 /* airQTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = airQTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		617496461C294443009A31B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		617496471C294443009A31B7 /* airQTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = airQTests.m; sourceTree = "<group>"; };
+		617496531C295B10009A31B7 /* IMG_3681副本.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMG_3681副本.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		6174962A1C294442009A31B7 /* airQ */ = {
 			isa = PBXGroup;
 			children = (
+				617496531C295B10009A31B7 /* IMG_3681副本.jpg */,
 				6174962F1C294442009A31B7 /* AppDelegate.h */,
 				617496301C294442009A31B7 /* AppDelegate.m */,
 				617496321C294442009A31B7 /* ViewController.h */,
@@ -201,6 +204,7 @@
 			files = (
 				617496371C294442009A31B7 /* Main.storyboard in Resources */,
 				6174963C1C294442009A31B7 /* LaunchScreen.xib in Resources */,
+				617496541C295B10009A31B7 /* IMG_3681副本.jpg in Resources */,
 				617496391C294442009A31B7 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -416,6 +420,7 @@
 				6174964D1C294443009A31B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6174964E1C294443009A31B7 /* Build configuration list for PBXNativeTarget "airQTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +429,7 @@
 				617496501C294443009A31B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
